@@ -15,19 +15,19 @@ container.appendChild(content);
 
 
 // // creates a new <p> element
-// let para = document.createElement('p');
+//let para = document.createElement('p');
 
 // // To add text to the <p> element, you must create a text node first. This code creates a text node:
-// let node = document.createTextNode('Hey Im red!');
+//let node = document.createTextNode('Hey Im red!');
 
 // // Then you must append the text node to the <p> element:
-// para.appendChild(node); 
+//para.appendChild(node); 
 
 // // Append the new element to an existing element in HTML. Finds an existing element by ID:
-// let element = document.getElementById('container');
+//let element = document.getElementById('container');
 
 // // This code appends the new element to the existing element:
-// element.appendChild(para);
+//element.appendChild(para);
 
 
 // // HTML DOM change font color 
